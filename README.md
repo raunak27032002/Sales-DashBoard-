@@ -5,7 +5,6 @@ Once done with the culculations, i have made visualizations and create report us
 Which help to easy understanding of the end-user and give meaningful insights.
 
 Tools and Technology used-
-
 1. Microsoft Power BI
 2. MS Excel
 
